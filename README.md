@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=chonginator)](https://github.com/chonginator/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chonginator)](https://github.com/chonginator/github-readme-stats)
+
 
 <!--
 **chonginator/chonginator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
