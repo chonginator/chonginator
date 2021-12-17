@@ -2,8 +2,8 @@
 
 I'm a Frontend developer that loves to make responsive and interactive web experiences with HTML/CSS, JavaScript and React.
 
-- 🔭 I’m currently working on [The Frontend Developer Career Path by Scrimba](https://scrimba.com/learn/frontend)
-- 🌱 I’m currently learning CSS
+- 🔭 I’m currently working on [The Frontend Developer Career Path by Scrimba](https://scrimba.com/learn/frontend).
+- 🌱 I’m currently learning CSS.
 - ⚡ Fun fact: Fish cough.
 
 <div align="center">
