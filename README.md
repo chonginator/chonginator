@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chonginator&theme=cobalt)](https://github.com/chonginator/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonginator&theme=cobalt)](https://github.com/chonginator/github-readme-stats"/>
 
 
 <!--
