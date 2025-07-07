@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! I'm Ben 👋 </h1>
 
-I'm a Frontend developer that loves to make responsive and interactive web experiences with HTML/CSS, JavaScript and React.
-
-- 🔭 I’m currently working on projects from [Frontend Mentor](https://www.frontendmentor.io/).
-- 🌱 I’m currently learning CSS.
+- 🥾 I've been bootstrapping myself as a modern backend developer for over a year now with [Boot.dev](https://boot.dev)
+- ♻️ I’m working on my web app [Brisbane Bin Chicken Offering Day](https://brisbane-bin-chicken-day-836896812911.australia-southeast1.run.app/).
+- 🦫 I’m learning Go and TypeScript.
